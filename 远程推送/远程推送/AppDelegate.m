@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 //用户第一次启动就获得devicetoke
-    
+///////////////////////////////////
     return YES;
 }
 
